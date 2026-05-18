@@ -23,6 +23,8 @@
 | Oct 2014 – Jun 2019 | M13 LLC | Software Developer → Team Leader | [→](./experience/2014-2019_m13_developer-lead.md) |
 | Nov 2013 – Oct 2014 | Own startup | Software Developer / Founder | [→](./experience/2013-2014_own-startup_founder.md) |
 
+_Earlier (2007 – 2013): .NET developer roles, junior → middle (детали не публикуются)._
+
 ## Ключевые навыки
 
 - **AI Engineering:** multi-agent systems, LLM inference, RAG, evals
