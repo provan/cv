@@ -11,6 +11,7 @@
 | [`experience/`](./experience/) | Детальные описания ролей по компаниям |
 | [`projects/`](./projects/) | Кейсы проектов |
 | [`skills/`](./skills/) | Технический и лидерский стек |
+| [`education.md`](./education.md) | Сертификаты, образование, языки |
 
 Агентам — читать [`CLAUDE.md`](./CLAUDE.md).
 
