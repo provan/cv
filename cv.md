@@ -34,4 +34,3 @@ _Earlier (2007 – 2013): .NET developer roles, junior → middle (детали 
 - **Лидерство:** построил несколько сильных самостоятельных команд, большой опыт найма, опыт увольнений, удержаний, работы с low-performers
 - **Подход:** DDD (event storming), TDD (clean DSL-like tests)
 
-Подробнее — [`skills/`](./skills/).
