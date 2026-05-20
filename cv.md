@@ -10,7 +10,7 @@
 
 ## TL;DR
 
-Возглавляю LLM Platform в Avito (один из крупнейших classifieds мира, 50M+ MAU). Команда владеет всем AI-инфра-слоем: LLM Gateway, Eval Platform, Agent SDK. Флагман — **Avi**, multi-agent buyer assistant: миллионы пользователей, 0.3% error rate, p75 latency 8s.
+Возглавляю LLM Platform в Avito. Команда владеет всем LLM-инфра-слоем: LLM Gateway, Eval Platform, Agent SDK. Флагман — **Avi**, multi-agent buyer assistant: миллионы пользователей, 0.3% error rate, p75 latency 8s.
 
 До этого — 15+ лет distributed systems, high-load, business critical domains.
 
@@ -20,8 +20,8 @@
 |--------|----------|------|-----------|
 | Jun 2025 – present | Avito tech | Head of LLM Platform | [→](./experience/2025-present_avito_head-of-llm-platform.md) |
 | Jul 2022 – Jun 2025 | Ozon Tech | Team Lead / Architect | [→](./experience/2022-2025_ozon_team-lead.md) |
-| Oct 2019 – Dec 2021 | Mindbox | Senior Software Engineer | [→](./experience/2019-2021_mindbox_senior-engineer.md) |
-| Oct 2014 – Jun 2019 | M13 LLC | Software Developer → Team Leader | [→](./experience/2014-2019_m13_developer-lead.md) |
+| Oct 2019 – Dec 2021 | Mindbox | Senior Software Engineer / Tech Lead / Architect | [→](./experience/2019-2021_mindbox_senior-engineer.md) |
+| Oct 2014 – Jun 2019 | M13 | Software Developer → Team Leader | [→](./experience/2014-2019_m13_developer-lead.md) |
 | Nov 2013 – Oct 2014 | Own startup | Software Developer / Founder | [→](./experience/2013-2014_own-startup_founder.md) |
 
 _Earlier (2007 – 2013): .NET developer roles, junior → middle (детали не публикуются)._
